@@ -1,0 +1,12 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\OpenPop.NET Test Application.exe.config
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\OpenPop.NET Test Application.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\MailInbox.DAL.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\MailInbox.DAL.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\bin\Release\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\obj\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\obj\Release\OpenPop.TestApplication.TestForm.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\obj\Release\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\obj\Release\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopTest\obj\Release\OpenPop.NET Test Application.exe

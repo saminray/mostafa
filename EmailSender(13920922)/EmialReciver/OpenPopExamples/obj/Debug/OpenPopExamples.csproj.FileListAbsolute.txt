@@ -1,0 +1,64 @@
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.dll
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.pdb
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.xml
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.dll
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.pdb
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\bin\Debug\OpenPop.xml
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+E:\shr\code\New folder\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Debug\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\bin\Debug\OpenPopExamples.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\bin\Debug\OpenPop.xml
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPopExamples\obj\Debug\OpenPopExamples.pdb

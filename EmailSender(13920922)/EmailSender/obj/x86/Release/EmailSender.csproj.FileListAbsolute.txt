@@ -1,0 +1,21 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\EmailSender.exe.config
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\EmailSender.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\EmailSender.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\GZipEncoder.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\IRSAS.DAL.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\IRSAS.DataModel.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\MailInbox.DAL.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\OpenPop.NET Test Application.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\SBS.CommonUtils.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\SBS.DataModel.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\SBS.FacadeServiceContract.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\MailInbox.DAL.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Release\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\EmailSender.Properties.Resources.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\EmailSender.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Release\EmailSender.pdb

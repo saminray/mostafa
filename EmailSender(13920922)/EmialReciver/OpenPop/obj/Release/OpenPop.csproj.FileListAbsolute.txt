@@ -1,0 +1,3 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\bin\Release\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\obj\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\obj\Release\OpenPop.dll

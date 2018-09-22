@@ -1,0 +1,253 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\GZipEncoder.dll
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\OHB\Test Application\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\OHB\Test Application\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\GZipEncoder.dll
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\OHB\SBS\EmailSender\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\OHB\SBS\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Saminray ICT Co\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\GZipEncoder.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\SBS.CommonUtils.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\SBS.DataModel.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\OpenPop.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\OpenPop.pdb
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\OpenPop.xml
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\IRSAS.DAL.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\IRSAS.DataModel.dll
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\MailInbox.DAL.exe
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\MailInbox.DataModel.exe
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\MailInbox.DAL.pdb
+D:\Saminray ICT Co\EmailSender\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\EmailSender.exe.config
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\EmailSender.exe
+E:\shr\code\New folder\EmailSender\bin\Debug\EmailSender.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\GZipEncoder.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\IRSAS.DAL.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\IRSAS.DataModel.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\MailInbox.DAL.exe
+E:\shr\code\New folder\EmailSender\bin\Debug\MailInbox.DataModel.exe
+E:\shr\code\New folder\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+E:\shr\code\New folder\EmailSender\bin\Debug\SBS.CommonUtils.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\SBS.DataModel.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\OpenPop.dll
+E:\shr\code\New folder\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\MailInbox.DAL.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\OpenPop.pdb
+E:\shr\code\New folder\EmailSender\bin\Debug\OpenPop.xml
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shr\code\New folder\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\GZipEncoder.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\IRSAS.DAL.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\IRSAS.DataModel.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\OpenPop.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\OpenPop.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\bin\Debug\OpenPop.xml
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.exe.config
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.exe
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\GZipEncoder.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\IRSAS.DAL.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DAL.exe
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.dll
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.xml
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\GZipEncoder.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\IRSAS.DAL.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.dll
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\bin\Debug\OpenPop.xml
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Other\Desktop\EmailBank(13910303)\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\OHB\SBS\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.exe.config
+C:\OHB\SBS\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\OHB\SBS\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.exe.config
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.exe
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\GZipEncoder.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\IRSAS.DAL.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DAL.exe
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.DataModel.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.dll
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.pdb
+E:\shR\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.xml
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shR\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.exe.config
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\EmailSender.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\GZipEncoder.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\IRSAS.DAL.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DAL.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.DataModel.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\bin\Debug\OpenPop.xml
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.exe.config
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\GZipEncoder.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\IRSAS.DAL.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DAL.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\SBS.DataModel.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.xml
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\GZipEncoder.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\IRSAS.DAL.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\IRSAS.DataModel.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DAL.exe
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.NET Test Application.exe
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\SBS.CommonUtils.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\SBS.DataModel.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\SBS.FacadeServiceContract.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.dll
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.NET Test Application.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DAL.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.pdb
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\bin\Debug\OpenPop.xml
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\EmailSender(13920922)\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog

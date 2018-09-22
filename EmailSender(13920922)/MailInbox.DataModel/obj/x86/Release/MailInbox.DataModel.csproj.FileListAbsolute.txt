@@ -1,0 +1,8 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\bin\Release\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\bin\Release\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\MailInbox.DataModel.Properties.Resources.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Release\MailInbox.DataModel.pdb

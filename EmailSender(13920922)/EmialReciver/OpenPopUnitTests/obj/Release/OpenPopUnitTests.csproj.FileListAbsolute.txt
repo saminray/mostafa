@@ -1,0 +1,7 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\bin\Release\OpenPopUnitTests.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\bin\Release\OpenPopUnitTests.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\bin\Release\nunit.framework.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\bin\Release\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\obj\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\obj\Release\OpenPopUnitTests.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopUnitTests\obj\Release\OpenPopUnitTests.pdb

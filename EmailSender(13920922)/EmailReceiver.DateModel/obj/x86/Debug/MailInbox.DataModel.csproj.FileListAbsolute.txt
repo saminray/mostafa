@@ -1,0 +1,8 @@
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\EmailReceiver.DateModel.Properties.Resources.resources
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\bin\Debug\EmailReceiver.DateModel.exe
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\bin\Debug\EmailReceiver.DateModel.pdb
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\EmailReceiver.DateModel.exe
+E:\shr\code\NewEmailReceiver\EmialReciver\EmailReceiver.DateModel\obj\x86\Debug\EmailReceiver.DateModel.pdb

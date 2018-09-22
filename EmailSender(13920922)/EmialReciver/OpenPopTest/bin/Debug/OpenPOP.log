@@ -1,0 +1,125 @@
+2012/05/05 12:54:02 ب.ظ Connect(): No such host is known
+2012/05/05 01:45:25 ب.ظ Problem logging in using method Auto. Server response was: -ERR Authentication failed.
+2012/05/05 01:56:11 ب.ظ Problem logging in using method Auto. Server response was: -ERR Authentication failed.
+2012/05/05 02:52:37 ب.ظ Problem logging in using method Auto. Server response was: -ERR Authentication failed.
+2012/05/06 10:12:38 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/06 10:12:38 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/06 10:14:15 ق.ظ Connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 72.9.158.196:110
+2012/05/06 11:18:46 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/06 11:18:46 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/06 11:18:57 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/06 11:18:57 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/06 11:18:59 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/06 11:18:59 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/06 11:19:02 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/06 11:19:02 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/06 03:27:36 ب.ظ Connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 72.9.158.196:110
+2012/05/06 03:28:20 ب.ظ Connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 72.9.158.196:110
+2012/05/06 03:29:05 ب.ظ Connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 72.9.158.196:110
+2012/05/07 08:27:08 ق.ظ Connect(): No such host is known
+2012/05/07 08:29:52 ق.ظ Connect(): No such host is known
+2012/05/07 08:33:06 ق.ظ Connect(): No such host is known
+2012/05/07 08:34:34 ق.ظ Connect(): No such host is known
+2012/05/07 08:43:24 ق.ظ Connect(): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 72.9.158.196:110
+2012/05/07 08:45:30 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 08:46:13 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 08:46:42 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 08:46:42 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 08:47:29 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 08:47:29 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 08:48:16 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 08:48:16 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 08:49:38 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 08:49:38 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 09:00:32 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 09:02:07 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 09:02:39 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 09:03:05 ق.ظ Connect(): A socket operation was attempted to an unreachable network 72.9.158.196:110
+2012/05/07 09:17:10 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 09:17:10 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 09:17:20 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 09:17:20 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 09:22:01 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 09:22:01 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 09:50:25 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 09:50:25 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 11:07:21 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 11:07:21 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 11:07:54 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 11:07:54 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 11:08:04 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 11:08:04 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 11:08:33 ق.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 11:08:33 ق.ظ Authentication: maildrop is locked or in-use
+2012/05/07 11:19:56 ق.ظ TestForm: Message fetching failed: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+Stack trace:
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.Stream.ReadByte()
+   at OpenPop.Common.StreamUtility.ReadLineAsBytes(Stream stream) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Common\StreamUtility.cs:line 29
+   at OpenPop.Common.StreamUtility.ReadLineAsAscii(Stream stream) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Common\StreamUtility.cs:line 61
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 847
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 11:19:56 ق.ظ TestForm: Message fetching failed: Unable to read data from the transport connection: A non-blocking socket operation could not be completed immediately.
+Stack trace:
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.Stream.ReadByte()
+   at OpenPop.Common.StreamUtility.ReadLineAsBytes(Stream stream) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Common\StreamUtility.cs:line 29
+   at OpenPop.Common.StreamUtility.ReadLineAsAscii(Stream stream) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Common\StreamUtility.cs:line 61
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 847
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 11:31:15 ق.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 11:54:13 ق.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 11:59:13 ق.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 12:11:30 ب.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 12:14:11 ب.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83
+2012/05/07 12:14:37 ب.ظ Problem logging in using method Auto. Server response was: -ERR [IN-USE] Maximum number of connections from user+IP exceeded (mail_max_userip_connections)
+2012/05/07 12:14:37 ب.ظ Authentication: maildrop is locked or in-use
+2012/05/07 12:16:17 ب.ظ TestForm: Message fetching failed: The server did not respond with a + response. The response was: "-ERR Message is deleted."
+Stack trace:
+   at OpenPop.Pop3.Pop3Client.IsOkResponse(String response) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 828
+   at OpenPop.Pop3.Pop3Client.SendCommand(String command) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 849
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber, Boolean askOnlyForHeaders) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 899
+   at OpenPop.Pop3.Pop3Client.GetMessageAsBytes(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 685
+   at OpenPop.Pop3.Pop3Client.GetMessage(Int32 messageNumber) in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\Pop3\Pop3Client.cs:line 661
+   at OpenPop.TestApplication.receiveMail.ReceiveMails() in C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPOPTest\receiveMail.cs:line 83

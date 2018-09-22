@@ -1,0 +1,55 @@
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+D:\Saminray ICT Co\EmailSender\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+E:\shr\code\New folder\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+E:\shr\code\New folder\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+E:\shr\code\New folder\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+E:\shR\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\bin\Debug\MailInbox.DataModel.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.Properties.Resources.resources
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.csproj.GenerateResource.Cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DataModel\obj\x86\Debug\MailInbox.DataModel.pdb

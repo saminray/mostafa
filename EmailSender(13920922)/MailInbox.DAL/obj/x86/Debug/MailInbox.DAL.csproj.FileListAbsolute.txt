@@ -1,0 +1,79 @@
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+D:\Saminray ICT Co\EmailSender\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+E:\shr\code\New folder\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+E:\shr\code\New folder\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+E:\shr\code\New folder\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+E:\shr\code\New folder\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+E:\shr\code\New folder\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\emailbank91-02-31\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+C:\OHB\SBS\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+C:\Users\Other\Desktop\EmailBank(13910303)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+E:\shR\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\bin\Debug\MailInbox.DAL.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\bin\Debug\MailInbox.DAL.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\bin\Debug\MailInbox.DataModel.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.Properties.Resources.resources
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.csproj.GenerateResource.Cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.exe
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\MailInbox.DAL\obj\x86\Debug\MailInbox.DAL.pdb

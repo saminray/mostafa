@@ -1,0 +1,46 @@
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.xml
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.dll
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.pdb
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\OpenPop.dll
+C:\Users\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\OpenPop.pdb
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.xml
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.dll
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\bin\Debug\OpenPop.pdb
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\OpenPop.dll
+C:\Documents and Settings\Administrator\Desktop\OpenPop.NET 2.0.4\source\OpenPop\obj\Debug\OpenPop.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\bin\Debug\OpenPop.dll
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\bin\Debug\OpenPop.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\obj\Debug\ResolveAssemblyReference.cache
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\obj\Debug\OpenPop.dll
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\obj\Debug\OpenPop.pdb
+D:\Saminray ICT Co\EmailSender\EmialReciver\OpenPOP\bin\Debug\OpenPop.xml
+E:\shr\code\New folder\EmialReciver\OpenPop\bin\Debug\OpenPop.dll
+E:\shr\code\New folder\EmialReciver\OpenPop\bin\Debug\OpenPop.pdb
+E:\shr\code\New folder\EmialReciver\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+E:\shr\code\New folder\EmialReciver\OpenPop\obj\Debug\OpenPop.dll
+E:\shr\code\New folder\EmialReciver\OpenPop\obj\Debug\OpenPop.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPop\bin\Debug\OpenPop.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPop\bin\Debug\OpenPop.pdb
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPop\obj\Debug\OpenPop.dll
+C:\Users\Other\Desktop\emailbank91-02-31\EmialReciver\OpenPop\obj\Debug\OpenPop.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\bin\Debug\OpenPop.dll
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\bin\Debug\OpenPop.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\obj\Debug\OpenPop.dll
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\obj\Debug\OpenPop.pdb
+C:\OHB\SBS\EmailBank(13910303)\EmialReciver\OpenPop\bin\Debug\OpenPop.xml
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\bin\Debug\OpenPop.xml
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\bin\Debug\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\bin\Debug\OpenPop.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\obj\Debug\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPop\obj\Debug\OpenPop.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\bin\Debug\OpenPop.xml
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\bin\Debug\OpenPop.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\bin\Debug\OpenPop.pdb
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\obj\Debug\OpenPop.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\obj\Debug\OpenPop.dll
+D:\Work\Projects\SBS\Email Sender\EmailSender(13920922)\EmialReciver\OpenPop\obj\Debug\OpenPop.pdb

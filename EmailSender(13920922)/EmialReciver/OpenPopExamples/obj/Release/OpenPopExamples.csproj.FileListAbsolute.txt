@@ -1,0 +1,6 @@
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Release\OpenPopExamples.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Release\OpenPopExamples.pdb
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\bin\Release\OpenPop.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Release\ResolveAssemblyReference.cache
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Release\OpenPopExamples.dll
+D:\EmailBank(91-03-16)\EmailBank(91-03-16)\EmialReciver\OpenPopExamples\obj\Release\OpenPopExamples.pdb
