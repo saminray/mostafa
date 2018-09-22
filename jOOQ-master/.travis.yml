@@ -1,0 +1,13 @@
+language: java
+jdk:
+  - oraclejdk8
+  - oraclejdk7
+  - openjdk6
+install: 
+  - sh -c 'mvn install -DskipTests=true'
+  - sh -c 'cd jOOQ-examples/jOOQ-spring-example && mvn install -DskipTests=true'
+  - sh -c 'cd jOOQ-examples/jOOQ-spring-guice-example && mvn install -DskipTests=true'
+script: 
+  - sh -c 'mvn test'
+  - sh -c 'cd jOOQ-examples/jOOQ-spring-example && mvn test'
+  - sh -c 'cd jOOQ-examples/jOOQ-spring-guice-example && mvn test'
